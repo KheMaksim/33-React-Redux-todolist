@@ -1,0 +1,16 @@
+.button {
+	font-size: 14px;
+	color: white;
+	background: rgb(17, 17, 190);
+	padding: 10px;
+	border-radius: 10px;
+}
+
+.delete {
+	background: red;
+}
+
+.task__form .button {
+	color: white;
+	background: green;
+}

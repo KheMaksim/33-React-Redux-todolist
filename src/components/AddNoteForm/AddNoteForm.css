@@ -1,0 +1,16 @@
+.note__form {
+	width: 100%;
+	display: flex;
+	justify-content: space-between;
+	align-items: center;
+	padding: 10px;
+}
+
+.note__input {
+	width: 85%;
+	min-height: 100px;
+	background: none;
+	border: 1px solid black;
+	border-radius: 10px;
+	padding: 5px;
+}

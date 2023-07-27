@@ -1,0 +1,21 @@
+.note__container {
+	width: 100%;
+	display: flex;
+	justify-content: space-between;
+	align-items: center;
+	padding: 10px;
+	border: 1px solid black;
+	border-radius: 5px;
+	margin-bottom: 10px;
+}
+
+.note__buttons {
+	width: 27%;
+	display: flex;
+	justify-content: space-between;
+	padding: 5px;
+}
+
+.note__form .button {
+	height: 40px;
+}
